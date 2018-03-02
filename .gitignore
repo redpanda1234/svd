@@ -1,0 +1,8 @@
+*.png
+*.aux
+*.log
+*.el
+*.pre
+*.out
+*.pdf
+/auto
