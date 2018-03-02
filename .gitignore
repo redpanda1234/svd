@@ -5,4 +5,5 @@
 *.pre
 *.out
 *.pdf
+*.tex
 /auto
